@@ -4,6 +4,11 @@ Welcome to the **100 Days of C Programming** repository! 🎉 This project is a 
 The **C programming language** is one of the most important programming languages ever that has been one of the main reasons for all the technological developments in the world.\
 I would be drawing inspiration from the book **"The C Programming Language"** written by the creator of language itself, for the 100 days of code.
 
+I will be using Neovim as the IDE for C programming language with basic NvChad configuration with **Clangd** and **ccls** as the LSPs, and **gcc** as the compiler.
+
+
+Another good choice of IDE is Visual Studio Code and the setup for it has been given in the offical VSCode docs itself, though I'm used to coding in text editors like nano, neovim and vi.
+
 ---
 
 ## 🚀 **Overview**
