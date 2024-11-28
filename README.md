@@ -1,4 +1,4 @@
-# **100 Days of C Programming**
+# **C Programming Language**
 
 Welcome to the **100 Days of C Programming** repository! 🎉 This project is a structured roadmap to mastering the **C programming language** in 100 days. Whether you're a beginner or looking to sharpen your skills, this repository provides a mix of theory, examples, and projects to enhance your learning.\
 The **C programming language** is one of the most important programming languages ever that has been one of the main reasons for all the technological developments in the world.\
