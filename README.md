@@ -41,6 +41,7 @@ This repository is designed to take you from the fundamentals of C programming t
 ```bash
 │
 ├── Day01/               # Basics of C Programming
-│   ├── hello_world.c    # First C program
-│   ├── variables.c      # Example of variables and data types
+│   ├── hello.c    # First C program
+│   ├── datatypes.c      # Variable initialization and commonly used datatypes in C
+
 ```
