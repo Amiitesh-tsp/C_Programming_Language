@@ -9,6 +9,20 @@ I will be using Neovim as the IDE for C programming language with basic NvChad c
 
 Another good choice of IDE is Visual Studio Code and the setup for it has been given in the offical VSCode docs itself, though I'm used to coding in text editors like nano, neovim and vi.
 
+To run a program in C, Go to the directory where the **program.c** is stored and use the **gcc** compiler.
+```bash
+gcc filename.c
+```
+This will return a executable file **a.out**.\
+In Linux run ir using,
+```bash
+./a.out
+```
+In Windows run it using,
+```bash
+.\a.out
+```
+
 ---
 
 ## 🚀 **Overview**
