@@ -14,7 +14,7 @@ To run a program in C, Go to the directory where the **program.c** is stored and
 gcc filename.c
 ```
 This will return a executable file **a.out**.\
-In Linux run ir using,
+In Linux run it using,
 ```bash
 ./a.out
 ```
