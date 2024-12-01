@@ -10,13 +10,13 @@ int main() {
     short e = 3422; // (-32,768 to 32,767) is the range of short
     long long f = 123456870987L; // (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,808) is the range of long datatype
     
-    printf("String: %s\n", str);
+    printf("String: %s\n", str); // Everytime we need to print a variable with strings, we have to use a format specifier and at the last specify the variable of the datatype that is to be printed
     printf("int: %d\n", a);
     printf("float: %.2f\n", b);
-    printf("double: %.11f\n", c);
+    printf("double: %.11f\n", c); // Double is nothing but float but with more precision meaning more number are allowed after the decimal
     printf("char: %c\n", d);
     printf("Long: %lld\n", f);
     printf("Short: %hd\n", e);
     return 0;
 }
-
+// In the upcoming files I will be discussing about macro in C or also called C preprocessor
