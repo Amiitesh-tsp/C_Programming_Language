@@ -12,7 +12,7 @@ int main() {
     
     printf("String: %s\n", str); // Everytime we need to print a variable with strings, we have to use a format specifier and at the last specify the variable of the datatype that is to be printed
     printf("int: %d\n", a);
-    printf("float: %.2f\n", b);
+    printf("float: %.2f\n", b); // The %.2f is used for the precision after the decimal point.
     printf("double: %.11f\n", c); // Double is nothing but float but with more precision meaning more number are allowed after the decimal
     printf("char: %c\n", d);
     printf("Long: %lld\n", f);
